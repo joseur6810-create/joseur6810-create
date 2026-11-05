@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Jose Uribe
 
-<!--
-**joseur6810-create/joseur6810-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m studying Computer Information Systems at James Madison University. This portfolio brings together my class projects in information systems, cybersecurity, and data analytics.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Focus |
+| --- | --- |
+| [Advising Buddy](https://github.com/joseur6810-create/advising-buddy) | Academic advising and information systems |
+| [Cybersecurity Coursework](https://github.com/joseur6810-create/cybersecurity-coursework) | Labs and case studies |
+| [Data Analytics Coursework](https://github.com/joseur6810-create/data-analytics-coursework) | Data preparation, analysis, and communication |
+
+See the [JMU CIS Project Portfolio](https://github.com/joseur6810-create/jmu-cis-portfolio) for the project index.
